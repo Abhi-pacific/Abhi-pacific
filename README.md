@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi there! My name is Abhishek Chauhan and I'm a tech enthusiast with a strong background in Python, SQL, Excel, and Power BI. I hold a Bachelor's and Master's degree in Computer Applications <br><br>I have a passion for data visualization and data cleaning, which I've applied to various projects. For example, I developed a Python-based server shell tool that increased network efficiency by 25%. I've also worked on enhancing real-time air quality data accessibility and visualization.<br><br>In addition, I'm a certified professional in Microsoft Power BI Desktop for Business Intelligence. I believe in meticulous work and making decisions based on facts. I thrive in known environments and value originality.<br><br>When I'm not working, I enjoy participating in extracurricular activities. One of my notable achievements was conducting a survey on the importance of blood donation at Bareilly Railway station, which reached over 50 participants. I also served as the Discipline Head at a National Conference.<br><br>I'm excited to bring my technical skills and positive attitude to new challenges.
+- 🎓 Holds a **Bachelor's and Master's degree in Computer Applications**.
+- 💻 Tech enthusiast with a strong background in **Python, SQL, Excel, and Power BI**.
+- 📊 Passionate about **data visualization and data cleaning**.
+- 🌍 Worked on enhancing **real-time air quality data accessibility and visualization**.
+- 🏅 Holds a **certification in Microsoft Power BI Desktop for Business Intelligence**.
+- 🎯 Believes in meticulous work and making decisions based on facts.
+- 🌱 Thrives in known environments and values originality.
+- 🚀 Excited to bring technical skills and positive attitude to new challenges.
+- 🌟 Conducted a survey on the importance of blood donation at Bareilly Railway station, reaching over 50 participants.
+- 🏆 Served as the Discipline Head at a National Conference.
 
 
 ## 🌐 Socials:
