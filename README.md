@@ -6,7 +6,7 @@
 - 🏅 Holds a **certification in Microsoft Power BI Desktop for Business Intelligence**.
 - 🎯 Believes in meticulous work and making decisions based on facts.
 - 🌱 Thrives in known environments and values originality.
-- 🚀 Excited to bring technical skills and positive attitude to new challenges.
+- 🚀 Excited to bring technical skills and a positive attitude to new challenges.
 - 🌟 Conducted a survey on the importance of blood donation at Bareilly Railway station, reaching over 50 participants.
 - 🏆 Served as the Discipline Head at a National Conference.
 
@@ -26,6 +26,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhi-pacific&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Abhi-pacific&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
