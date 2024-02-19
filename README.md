@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 Holds a **Bachelor's and Master's degree in Computer Applications**.
+- 🎓 Holds a **Bachelor's degree in Computer Applications** and currently **pursuing a Master's degree in the same field**.
 - 💻 Tech enthusiast with a strong background in **Python, SQL, Excel, and Power BI**.
 - 📊 Passionate about **data visualization and data cleaning**.
 - 🌍 Worked on enhancing **real-time air quality data accessibility and visualization**.
@@ -9,6 +9,7 @@
 - 🚀 Excited to bring technical skills and positive attitude to new challenges.
 - 🌟 Conducted a survey on the importance of blood donation at Bareilly Railway station, reaching over 50 participants.
 - 🏆 Served as the Discipline Head at a National Conference.
+
 
 
 ## 🌐 Socials:
