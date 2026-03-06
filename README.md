@@ -22,9 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhi-pacific&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-pacific&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhi-pacific&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
